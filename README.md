@@ -11,8 +11,6 @@
 当有新成员加入群聊时，本插件可以自动发送包含 `@新成员`、自定义文本和图片的欢迎消息。
 
 ## 效果图
-
-_(在这里可以放置一张你的机器人发送欢迎消息的截图)_
 <img src="https://gastigado.cnies.org/d/project_nonebot_plugin_group_welcome/PixPin_2025_08_31_19_45_52.png?sign=kjsczdNeTe5BdbOm1tU-rX5Ls5XefHSDgqOjLsvKnvE=:0" alt="效果图预览" style="zoom:50%;" />
 
 ## 功能特性
