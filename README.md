@@ -30,11 +30,14 @@
 - 本插件依赖于 `GroupIncreaseNoticeEvent` (群成员增加事件)，请确保你的 OneBot 实现可以正确上报该事件。
 - 图片路径必须是 **绝对路径**，并且Lagrange.OneBot容器或进程需要有该路径的 **读权限**。如果使用 Docker 部署，请确保路径映射正确。
 
-## 贡献
+## 💡 鸣谢
 
-欢迎提交 Issue 和 Pull Request！
+本插件站在了巨人的肩膀上，开发过程中吸收和借鉴了许多优秀项目的思想，感谢以下项目及其开发者：
 
-如果你对这个项目有任何想法或建议，请随时提出。
+- [nonebot_plugin_admin](https://github.com/yzyyz1387/nonebot_plugin_admin)
+- [zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot)
+
+如果本插件无法满足您的全部需求，也推荐您了解和尝试上述优秀项目。
 
 ## 开源许可
 
